@@ -1,7 +1,5 @@
-# TCMD-Rules
+# Server Rules: 
 Welcome to Tabletop Chaos &amp; Mysterious Disaster Official Server Rules 
-
-Server Rules: 
 
 1: English only in all chats
 
