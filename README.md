@@ -1,4 +1,4 @@
-# Server Rules: 
+# Official Rules
 Welcome to Tabletop Chaos &amp; Mysterious Disaster Official Server Rules 
 
 1: English only in all chats
@@ -30,8 +30,41 @@ These words are banned in the server: Ni--er,F-g,Fa--ot, or any other racial slu
 If you're in an emergency situation and need help please contact any of the following hotlines who will gladly help you through it. We are here for you but again, we are not licensed professionals. 
 
 USA: 1-800-273-8255
+
 Australia: 13 11 14 https://www.lifeline.org.au/
+
 Canada: 1-833-456-4566
+
 New Zealand: 1737
+
 United Kingdom: 116 123 
+
 https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+
+# Server Roles
+
+MAIN ROLES:
+
+★@Higher Moon - Server Owner 
+
+★@Mythical Royalty - Server Admins
+
+★@Royal Guards - Server Moderators 
+
+★@Knights - Moderators in Training 
+
+★@Rising Sun - All Server Staff
+
+★@Citizen - Basic member role
+
+ASSIGNABLE ROLES:
+
+★@Masters of the Realm - DM/GM (Game Masters run D&D and other tabletop RPGs)
+
+★@D&D - Players of Dungeons & Dragons
+
+★@RPG - Players of any RPG/MMO game 
+
+★@Gamer - PC & Console gamers 
+
+★@NSFW - Self-explanatory. Just because someone is 18 doesn’t mean they want to see R18 content
