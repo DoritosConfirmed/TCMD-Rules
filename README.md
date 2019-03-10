@@ -57,6 +57,8 @@ MAIN ROLES:
 
 ★@Citizen - Basic member role
 
+★@NPC - The server's lovable helpful bots
+
 ASSIGNABLE ROLES: 
 
 (We request only to assign yourself the DM/GM role if you have expierience and comfortable running campaigns)
@@ -69,4 +71,8 @@ ASSIGNABLE ROLES:
 
 ★@Gamer - PC & Console gamers 
 
-★@NSFW - Self-explanatory. Just because someone is 18 doesn’t mean they want to see R18 content
+★@Tech Support - Only give yourself this role if you don't mind helping people who need tech assistance
+
+★@NSFW - Self-explanatory. Just because someone is 18 doesn’t mean they want to see R18 content. Gives access to the NSFW channel
+
+★@LGBTQ+ - This is for those who want to rep that they're part of the LGBTQ+ community (these members are protected under the staff. Bullying any member wielding this role will result in an immediate perma ban) Gives access to the LGBTQ channel
