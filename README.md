@@ -57,7 +57,9 @@ MAIN ROLES:
 
 ★@Citizen - Basic member role
 
-ASSIGNABLE ROLES:
+ASSIGNABLE ROLES: 
+
+(We request only to assign yourself the DM/GM role if you have expierience and comfortable running campaigns)
 
 ★@Masters of the Realm - DM/GM (Game Masters run D&D and other tabletop RPGs)
 
