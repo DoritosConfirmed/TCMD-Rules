@@ -31,7 +31,7 @@ If you're in an emergency situation and need help please contact any of the foll
 
 USA: 1-800-273-8255
 
-Australia: 13 11 14 https://www.lifeline.org.au/
+Australia: 13 11 14
 
 Canada: 1-833-456-4566
 
