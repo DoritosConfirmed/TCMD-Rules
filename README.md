@@ -29,6 +29,8 @@ These words are banned in the server: Ni--er,F-g,Fa--ot, or any other racial slu
 :heavy_check_mark: 13: The server is an inclusive safe space for all. However, we are not professionals. We cannot assist you during suicidal episodes or any intense behavioural/mental stress. 
 If you're in an emergency situation and need help please contact any of the following hotlines who will gladly help you through it. We are here for you but again, we are not licensed professionals. 
 
+**SUICIDE CRISIS HOTLINES:**
+
 USA: 1-800-273-8255
 
 Australia: 13 11 14
@@ -39,11 +41,11 @@ New Zealand: 1737
 
 United Kingdom: 116 123 
 
-https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines
+[List of Suicide Crisis Lines by Country](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
 
 # Server Roles
 
-MAIN ROLES:
+**MAIN ROLES:**
 
 ★@Higher Moon - Server Owner 
 
@@ -59,7 +61,7 @@ MAIN ROLES:
 
 ★@NPC - The server's lovable helpful bots
 
-ASSIGNABLE ROLES: 
+**ASSIGNABLE ROLES:** 
 
 (We request only to assign yourself the DM/GM role if you have expierience and comfortable running campaigns)
 
@@ -76,3 +78,21 @@ ASSIGNABLE ROLES:
 ★@NSFW - Self-explanatory. Just because someone is 18 doesn’t mean they want to see R18 content. Gives access to the NSFW channel
 
 ★@LGBTQ+ - This is for those who want to rep that they're part of the LGBTQ+ community (these members are protected under the staff. Bullying any member wielding this role will result in an immediate perma ban) Gives access to the LGBTQ channel
+
+# Server Channels 
+
+**WELCOME:**
+
+☆#rules - The server rules are listed here in a summarised version 
+
+☆#lobby - Join/Leave messages 
+
+☆#pinboard - Server wide pin messages appear here in one universal place
+
+☆#notice-board - Server announcemnts and Server Events get posted here
+
+☆#letter-box - You can ask server questions here, or drop your suggesstions to help build up the server
+
+**CHAOTIC KINGDOM:**
+
+☆
