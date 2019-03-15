@@ -131,6 +131,8 @@ United Kingdom: 116 123
 
 ☆#music-sharing - Spotify playlists, Soundcloud, YouTube, share the music you find and perhaps someone will enjoy what they hear
 
+☆#spicy-memes - M E M E S   Y E E T
+
 **BOT PARTY:**
 
 ☆#get-role - Here is where you assign yourself the available roles with p!getrole [role name] 
