@@ -79,7 +79,7 @@ United Kingdom: 116 123
 
 ★@LGBTQ+ - This is for those who want to rep that they're part of the LGBTQ+ community (these members are protected under the staff. Bullying any member wielding this role will result in an immediate perma ban) Gives access to the LGBTQ channel
 
-# Server Channels 
+# Server Text Channels 
 
 **WELCOME:**
 
@@ -91,8 +91,70 @@ United Kingdom: 116 123
 
 ☆#notice-board - Server announcemnts and Server Events get posted here
 
-☆#letter-box - You can ask server questions here, or drop your suggesstions to help build up the server
+☆#letter-box - You can ask server questions here, or drop your suggesstions to help build up the server. You can also request D&D campaign voice channels here. Just let the admins know you need a voice channel for your campaign/session including a fun name or the name of the campaign. (The voice channel will stay until you let the staff know that the campaign/session has finished) The DM of your group can also request to have a campaign role made for your game. 
 
 **CHAOTIC KINGDOM:**
 
-☆
+☆#introductions - Introduce yourself to the server. This could be your name, age, nationality, sexuality, gender, preffered pronouns, favourite game. Whatever you like to share with us!
+
+☆#tavern - The general channel for any topic and random chatting
+
+☆#queer-town-square - Just like tavern, but this channel is for those in the LGBTQ+ community. *Requires the @LGBTQ+ role to access* 
+
+☆red-light-district - This is where any NSFW R18 content can be, however the mature content that can be posted have to go along with the server guidelines. **No full human nudity, porn, sexual gore images, implied rape/force RP, or any intense material that may trigger PTSD.** (This is for images and videos) Lewd images, sexual memes, cropped porn memes, or sexual implicating, etc CAN be posted here. *Requires the @NSFW role to access*
+
+☆#crisis-corner - The server staff want a safe space for everyone, meaning if you're having a bad time or something has happened, please use this space to vent or get it out of your system. We are not professionals though, if you're feel as if you are in danger to yourself or others, or in a situation where you're considering taking your own life, contact your local crisis hotline and we will be there for you along. Talking of rape/sexual assault expieriences or PTSD triggering events can be discussed here, but we ask you to use the Discord's spoiler tag function including a TW/CW. It hides the content for those who may not be able to handle randomly reading it, but still allows you to talk of it if needed.    **For example: TW/CW: Rape ||your vent here||**
+
+☆#queer-venting - Much like the Crisis Corner, this is for those with the LGBTQ+ role to vent about some of the heavier topics that other LGBTQ+ members would understand most. This is giving a seperate safe space for these members to feel more safe and comfortable. *Requires the @LGBTQ+ role to access* 
+
+**THE DUNGEON:** *This category requires having the @D&D role to access the channels listed below*
+
+☆#character-sheet - This is the D&D version of the introduction channel, instead of introducing yourself you can introduce your character(s) here! You can write up an intruce your character in a written roleplay-esce way, or you can post the character sheet (and a reference drawing if you got one), or both if you'd like. 
+
+☆#campaign-meetup - Here you can organise D&D groups, find/start sessions, and start adventures. 
+
+☆#table-conference - General D&D chatting, any and all things D&D
+
+☆#roll20-links - This channel is for posting links to roll20 games 
+
+**MARKETPLACE:**
+
+☆#promotion - Self-promote (or promote your friends and fave artists!), Facebook, Instagram, Snapchat, YouTube, Twitch, Etsy, or a personal website. **Do not post Discord server invites here**
+
+☆#art-gallery - Post your works of art, photography, writing, drawing, etc. 
+
+☆photo-booth - Hey, you have a face? We do too! Show us yours, if you want to
+
+☆tamed-them-all - Aleks really likes seeing pets, who doesn't? Show the server your adorable furry (or not so furry) friends. 
+
+☆#tech-support - Your computer giving you problems? Your Switch won't slot into the console (I've been there). You suspect that watching videos from shady websites gave you a virus? Ask @Tech Support and they may be able to help you out. We request that you try turning it off and on before asking the server for help. 
+
+☆#music-sharing - Spotify playlists, Soundcloud, YouTube, share the music you find and perhaps someone will enjoy what they hear
+
+**BOT PARTY:**
+
+☆#get-role - Here is where you assign yourself the available roles with p!getrole [role name] 
+
+☆#rank-check - Here you can check your rank with Tatsumaki and MEE6 as well as look at the server leaderboard to see who talks the most
+
+☆#bot-hangout - Play with the bots and or just recieve your daily credits, or use the 8ball when you're lonely 
+
+☆#tatsugotchi - Take care of your very own adorable virtual pet. It can't die but it might run away if you don't give it attention. 
+
+☆music-commands - If you're in the music voice channel, you'll use this channel to input your music commands. Enjoy being a DJ 
+
+# Server Voice Channels:
+
+:sound:Tavern - General voice room
+
+:sound:Music - Listen to music 
+
+:sound:Cinema - Voice channel for watch parties and film nights 
+
+:sound:Lounge Beta/Omega/Alpha - Private lounges for two people 
+
+☆#cinema-hangout - The text channel to be used along with the Cinema voice channel
+
+☆#lounge-beta/omega/alpha - The text channels to be used along with the private voice lounges
+
+☆#tavern-shenanigans - The text channel for Tavern spam 
