@@ -79,6 +79,10 @@ United Kingdom: 116 123
 
 ★@LGBTQ+ - This is for those who want to rep that they're part of the LGBTQ+ community (these members are protected under the staff. Bullying any member wielding this role will result in an immediate perma ban) Gives access to the LGBTQ channel
 
+★@Weeb - We love anime, you probably love anime. Why don't we talk about it? Gains access to the Anime Discsussion channel
+
+★@KPOP - We know you like Korean Pop Groups, especially those that contain very attractive men. Gains access to the KPOP Discussion channel for discussing those very attractive Koreans
+
 # Server Text Channels 
 
 **WELCOME:**
@@ -106,6 +110,10 @@ United Kingdom: 116 123
 ☆#crisis-corner - The server staff want a safe space for everyone, meaning if you're having a bad time or something has happened, please use this space to vent or get it out of your system. We are not professionals though, if you're feel as if you are in danger to yourself or others, or in a situation where you're considering taking your own life, contact your local crisis hotline and we will be there for you along. Talking of rape/sexual assault expieriences or PTSD triggering events can be discussed here, but we ask you to use the Discord's spoiler tag function including a TW/CW. It hides the content for those who may not be able to handle randomly reading it, but still allows you to talk of it if needed.    **For example: TW/CW: Rape ||your vent here||**
 
 ☆#queer-venting - Much like the Crisis Corner, this is for those with the LGBTQ+ role to vent about some of the heavier topics that other LGBTQ+ members would understand most. This is giving a seperate safe space for these members to feel more safe and comfortable. *Requires the @LGBTQ+ role to access* 
+
+☆#anime-discussion - Anime is great, and it's better when you can be a weeb with other weebs. *Requires the @Weeb role to access*
+
+☆kpop-discussion - Erika just wanted a channel to rave about BTS, I'll be honest. But hey, if you enjoy attractive Koreans, then you should join in that fun. *Requires the @KPOP role to access*
 
 **THE DUNGEON:** *This category requires having the @D&D role to access the channels listed below*
 
